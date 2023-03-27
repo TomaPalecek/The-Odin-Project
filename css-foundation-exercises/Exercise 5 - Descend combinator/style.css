@@ -1,0 +1,34 @@
+ /* ONE SOLUTION
+ .container .text{
+    color: red;
+    background-color:  yellow;
+    font-size: 20px;
+    text-align: center;
+}
+*/
+
+/* Another Solution
+.container p{
+    color: red;
+    background-color:  yellow;
+    font-size: 20px;
+    text-align: center;
+}
+*/
+
+/* Another Solution
+div .text{
+    color: red;
+    background-color:  yellow;
+    font-size: 20px;
+    text-align: center;
+}
+*/
+
+/* Last Solution */
+div p{
+    color: red;
+    background-color:  yellow;
+    font-size: 20px;
+    text-align: center;
+}

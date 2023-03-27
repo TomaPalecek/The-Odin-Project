@@ -1,0 +1,24 @@
+*{
+    text-align: center;
+    background-color: wheat;
+}
+
+#title {
+    color: brown;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#Josh {
+    border-radius: 50px;
+    border: 5px solid #ffffff;
+}
+
+div .recept {
+    color: brown;
+    font-size: 24px;
+    border: 2px solid white;
+    padding-top: 5px;
+    padding-right: 50px;
+    padding-bottom: 5px;
+    padding-left: 50px;
+}

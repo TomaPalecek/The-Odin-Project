@@ -1,0 +1,45 @@
+*{
+    background-color: wheat;
+}
+
+.main {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+#image {
+    border-radius: 50px;
+    border: 5px solid #000000;
+} 
+
+.grid-container {
+    
+    margin: 1rem;
+    text-align: center;
+}
+
+.grid-item {
+    display: inline-block;
+    padding-left: 10rem;
+    vertical-align: top;
+    text-align: justify;
+}
+
+#headersmain {
+    text-align: center;
+    margin-bottom: 0;
+}
+#headers {
+    text-align: left;
+}
+
+.Instructions {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+}

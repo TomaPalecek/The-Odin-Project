@@ -12,4 +12,4 @@ For the second project, the task was to finish the exercises located in this rep
 
 https://github.com/TheOdinProject/css-exercises/tree/main/foundations
 
-and style the first project using the new css knowledge
+and style the first project using the new css knowledge.

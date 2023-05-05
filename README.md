@@ -1,7 +1,7 @@
 # The Odin Project
  Projects done as part of TOP
 
-## First Assignment -Odins Recipes
+## First Assignment - Odins Recipes
 In this project, the assignment was to build a basic recipe website.
 Link to detailed requirements:
 
